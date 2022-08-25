@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ninhyun12
+- 👀 I’m interested in RPA
+- 🌱 I’m currently learning Back-end
+- 💞️ I’m looking to collaborate on RPA
+- 📫 How to reach me gmail
